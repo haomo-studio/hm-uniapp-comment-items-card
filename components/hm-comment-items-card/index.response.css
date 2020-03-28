@@ -1,0 +1,65 @@
+.hm-comment-items-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 750rpx;
+  height: 219.3rpx;
+  position: relative;
+  background-color: #f3f7ff;
+}
+
+.primary {
+  box-sizing: border-box;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 15.35rpx;
+  border-radius: 24.12rpx;
+  background-color: #ffffff;
+  padding-right: 13.16rpx;
+  padding-left: 35.09rpx;
+  width: 719.3rpx;
+  height: 131.58rpx;
+}
+
+.shopCreditWrap {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  margin-top: 39.47rpx;
+  height: 70.18rpx;
+}
+
+.shopCreditLv1 {
+  margin-right: 17.54rpx;
+  width: 52.63rpx;
+  height: 52.63rpx;
+}
+
+.daysAgo {
+  position: relative;
+  opacity: 1;
+  margin-top: 43.86rpx;
+  line-height: 43.86rpx;
+  white-space: pre;
+  color: #7d90aa;
+  font-family: Helvetica;
+  font-size: 26.32rpx;
+  font-weight: normal;
+}
+
+.info {
+  font-weight: normal;
+  font-size: 28.51rpx;
+  color: #092058;
+  line-height: 43.86rpx;
+  opacity: 1;
+  position: absolute;
+  top: 43.86rpx;
+  left: 105.26rpx;
+  white-space: pre;
+  font-family: Helvetica;
+}
